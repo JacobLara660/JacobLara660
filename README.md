@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JacobLara660
-- 👀 I’m interested in coding as a career choice 
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on different future projects
+- 👋 Hi, my name is jacob but you can call me jake!
+- 👀 I've made it as a software enginner if a while now and im still in love with programming
+- 🌱 I’m currently coding
+- 💞️ I’m always looking for more ways to revise my code!
 - 📫 How to reach me phone #5628526646 Email: jacoblara660@gmail.com
 
 <!---
